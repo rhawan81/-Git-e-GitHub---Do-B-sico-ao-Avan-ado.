@@ -1,2 +1,2 @@
 let nome : string = "Michelangelo";
-const idade : number = 15;
+const age : number = 15;
