@@ -1,1 +1,2 @@
 passo a passo do curso de git
+mostrar diferença no arquivo
